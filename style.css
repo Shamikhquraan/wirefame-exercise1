@@ -3,7 +3,7 @@ nav u li a{
     
     margin: 0 px;
     display:flex;
-    padding: 13px;
+    padding: 9px;
     margin-block: 5px;
     padding-bottom: 0%;
 
@@ -12,7 +12,7 @@ nav u li a{
 
 
 section nav u li {
-margin: 20 px;
+margin: 0 px;
 display:inline-block;
 
 
@@ -46,12 +46,14 @@ display: inline-block;
 
 header article div{
     margin: 20 px;
+    margin-left: 30 px;
 
     display: inline-block;
 }
 
 footer{
 
+    display: block;
     background-color:gray;
     color: gray;
 }
@@ -61,6 +63,8 @@ h5{
 }
 
 header{
-
-    margin-bottom: 0px;
+    
+background-color: gray; width: 1020px;
+display: flex;
+    margin-bottom: 20px;
 }
