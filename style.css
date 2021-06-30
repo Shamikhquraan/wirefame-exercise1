@@ -68,3 +68,16 @@ display: flex;
     margin-bottom: 20px;
 }
 
+.sham{
+border: 5;
+padding-left: 0;
+    padding: 15px 60px;
+margin-left: 170px;
+text-align: center;
+display: inline-block;
+    
+
+    font-size: 50 px;
+    cursor: pointer;
+
+}
